@@ -1,1 +1,1 @@
-# CovidTransmissionDistanceCovidTransmissionDistance
+# CovidTransmissionDistance
