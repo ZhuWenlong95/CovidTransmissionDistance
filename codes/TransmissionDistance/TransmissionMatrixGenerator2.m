@@ -1,0 +1,8 @@
+function TransmissionMatrix=TransmissionMatrixGenerator2(OnsetDay,ConfirmedList)
+
+% rand control function
+rng('shuffle');
+
+GenerationTimeDistribution=GenerationTimeDistributionFunction;
+TransmissionMatrix=TransmissionMatrixFunction2(OnsetDay,GenerationTimeDistribution,ConfirmedList); 
+TransmissionMatrix=TransmissionMatrix+TransmissionMatrix';
