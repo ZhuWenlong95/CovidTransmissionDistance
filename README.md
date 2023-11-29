@@ -11,6 +11,8 @@ This folder contains offline web pages with information on each outbreak variant
 Information on SARS-CoV-2 variants of each outbreak was collected from the reports of each city's Health Commission/Center for Disease Control and Prevention, research articles, or news.<br>
 * CityCharacteristics.csv<br>
 City characteristics used in the study.<br>
+  * v.mean<br>
+  Estimates of the mean transmission distance of each city.<br>
   * PopAll21 and CitySize<br>
   Number of permanent urban residents at the end of 2021 (PopAll21) and city size (CitySize).<br>
   From the national/city bureau of statistics and city’s seventh national population census bulletins.<br>
@@ -24,4 +26,4 @@ City characteristics used in the study.<br>
   The average of the intra-city travel intensity index from 1 March to 30 June 2023 in each city.<br>
   From the Baidu Migration Platform (https://qianxi.baidu.com).
 ### code
-* transmission 
+* TransmissionDistance 
