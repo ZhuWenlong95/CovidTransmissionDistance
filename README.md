@@ -26,4 +26,5 @@ City characteristics used in the study.<br>
   The average of the intra-city travel intensity index from 1 March to 30 June 2023 in each city.<br>
   From the Baidu Migration Platform (https://qianxi.baidu.com).
 ### code
+#### `All codes will be available when the article is accepted.`
 * TransmissionDistance 
